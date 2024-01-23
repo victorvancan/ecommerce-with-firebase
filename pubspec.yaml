@@ -1,5 +1,10 @@
 name: ecommerce
 description: "A new Flutter project."
+
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
 #--------------- PACKAGES ------------------#
 dependencies:
   flutter:

@@ -16,4 +16,6 @@ class TTexts
 
   static const String homeAppbarTitle = "Good day for a shopping";
   static const String homeAppbarSubTitle = "Out store";
+
+  
 }
