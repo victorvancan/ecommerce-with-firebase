@@ -1,4 +1,5 @@
 import 'package:ecommerce/utils/constants/colors.dart';
+// ignore: unused_import
 import 'package:ecommerce/utils/constants/text_strings.dart';
 import 'package:ecommerce/utils/helpers/helper_functions.dart';
 import 'package:flutter/material.dart';
