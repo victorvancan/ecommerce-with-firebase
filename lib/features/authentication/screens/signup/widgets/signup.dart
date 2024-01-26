@@ -1,9 +1,7 @@
+import 'package:ecommerce/features/authentication/screens/signup/verify_email.dart';
 import 'package:ecommerce/features/authentication/screens/signup/widgets/terms_conditions_checkbox.dart';
-import 'package:ecommerce/features/personalization/screens/signup/verify_email.dart';
 import 'package:ecommerce/utils/constants/sizes.dart';
 import 'package:ecommerce/utils/constants/text_strings.dart';
-// ignore: unused_import
-import 'package:ecommerce/utils/helpers/helper_functions.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:iconsax/iconsax.dart';

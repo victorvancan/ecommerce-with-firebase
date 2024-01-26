@@ -1,6 +1,6 @@
 import 'package:ecommerce/common/widgets/login_signup/form_divider.dart';
 import 'package:ecommerce/common/widgets/login_signup/social_buttons.dart';
-import 'package:ecommerce/features/personalization/screens/signup/widgets/signup.dart';
+import 'package:ecommerce/features/authentication/screens/signup/widgets/signup.dart';
 import 'package:ecommerce/utils/constants/sizes.dart';
 import 'package:ecommerce/utils/constants/text_strings.dart';
 import 'package:flutter/material.dart';
