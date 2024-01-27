@@ -30,7 +30,9 @@ class TLoginForm extends StatelessWidget {
             const SizedBox(
               height: TSizes.spaceBtwInputFields,
             ),
+            // password
             TextFormField(
+                  obscureText: true,
               decoration: const InputDecoration(
                   prefixIcon: Icon(Iconsax.password_check),
                   labelText: TTexts.password,
