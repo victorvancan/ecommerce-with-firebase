@@ -1,5 +1,5 @@
 import 'package:ecommerce/common/widgets/custom_shapes/curved_edges/curved_edges_widget.dart';
-import 'package:ecommerce/features/shop/screens/home/widgets/homa_appbar.dart';
+import 'package:ecommerce/features/shop/screens/home/widgets/home_appbar.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatelessWidget {
